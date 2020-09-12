@@ -9,7 +9,7 @@ class DrawingPainter extends CustomPainter{
 
   final Paint _paint = Paint()
   ..strokeCap = StrokeCap.round
-  ..color = Colors.black
+  ..color = Colors.grey[800]
   ..strokeWidth = Constants.strokeWidth
   ;
 
