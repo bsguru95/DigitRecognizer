@@ -1,8 +1,11 @@
-# digit_recognizer
+# Hand Written Digit Recognizer using TFLite and Flutter 
 
 A new Flutter application using TFLite to recognize and predict Handwritten Digits using MNIST dataset.
 
 ![Project demo](https://github.com/bsguru95/DigitRecognizer/blob/master/Digi.gif)
+
+# Kaggle 
+Source for the dataset and model is found on [Kaggle](https://bit.ly/3g7jfTL)
 
 
 ## Getting Started
